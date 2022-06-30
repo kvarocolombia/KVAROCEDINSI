@@ -1,0 +1,24 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+table{
+ border-collapse: collapse ;
+ font-size: 20px;
+ font-style: italic;
+background-image: url("../images/qatar-2022-logo-.png");
+background-position: center;
+    }
+
+th,td{
+    border-style: ridge;
+    padding: 15px;
+}
+tr>th{
+    background-color: #B0A29C ;
+}
+
+tbody>tr:hover{
+    background-color: #B0A29C  ;
+}
