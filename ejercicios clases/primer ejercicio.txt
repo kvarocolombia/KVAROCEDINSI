@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>mi primer pagina web</title>
+   </head>
+  <body>
+   <header style="background-color:rgb(115, 136, 80);">  
+    <h2>Hola soy una cabecera</h2>
+   </header>
+<nav style="background-color:darkgrey;">
+<h3>Hola soy un menú de navegación.</h3>
+</nav>
+<section style="background-color: darkcyan;">
+    <h3>Hola soy una sección.</h3>
+    <article style="background-color:darkkhaki;">
+        <h3>Hola soy un articulo.</h3>
+    </article>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sint amet non atque sit? Amet corrupti, maiores enim voluptate velit, voluptatibus, sequi iste provident beatae consectetur hic. Reprehenderit, tempora est?</p>
+    </pre>
+</section>
+<ASide style="background-color: rgb(187, 100, 231) ;">
+    <h3>Hola soy una barra lateral</h3>
+</ASide>
+<footer style="background-color: rgb(98, 158, 158) ;">
+    <h4>Hecho en 2020</h4>
+    <address style="background-color: aquamarine ;">Dirección123</address>
+    Teléfono:30463220
+</footer>
+<div style="background-color: brown ;">
+    <h3>Hola say un contenedor genérico llamado DIV.</h3>
+</div>
+<span style="background-color: royalblue ;">Hola soy un contenedor de bloque</span>
+</body>
+    <html>  
+
